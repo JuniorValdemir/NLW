@@ -21,6 +21,10 @@ nav {
   overflow-y: scroll;
 }
 
+nav h1 {
+  text-align: center;
+}
+
 .container {
   display: flex;
   flex-direction: column;
